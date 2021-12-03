@@ -2,7 +2,8 @@ package com.jhs.exam.board;
 
 import java.util.Scanner;
 
-public class Container {
+public
+class Container {
   static Scanner sc;
 
   static {

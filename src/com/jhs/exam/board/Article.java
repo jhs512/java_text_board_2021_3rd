@@ -1,6 +1,7 @@
 package com.jhs.exam.board;
 
-public class Article {
+public
+class Article {
   int id;
   String title;
   String body;
